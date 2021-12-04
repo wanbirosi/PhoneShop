@@ -121,14 +121,14 @@ export default function ClientHome() {
         <div className="row w-75 mx-auto"> 
           <div className="col-md-6 styl slideanim4" style={{padding: '0px 5px'}}>
             <div className="tablet-card" style={{padding: '5px 0px',height: '440px'}}>
-              <img src={`http://localhost:3000/images/product/72880.74380240304lenovo-legion-5-15imh05-i7-82au0051vn-210520-040515-600x600.jpg`} alt="Sản phẩm laptop 1" className="w-100" style={{height: '440px'}}/>
+              <img src={`http://localhost:3000/images/product/95773.90727401957lenovo-legion-5-15imh05-i7-82au0051vn-210720-0429110.jpg`} alt="Sản phẩm laptop 1" className="w-100" style={{height: '440px'}}/>
               <div className="style-grid-2-text my-content-denim my-content-denim2">
-                <a href={"/Product-Detail/60cf1e655451001acc0d380f"}>
+                <a href={"/Product-Detail/61aadeaf90db05226433c53e"}>
                   <p className="ten ten-san-pham">Laptop Lenovo Legion 5 15IMH05</p>
                 </a>
                 <p className="noi-dung"></p>
                 <h5>{new Intl.NumberFormat('de-DE').format(parseInt(25990000))}<span className="badge vnd"><sup>đ</sup></span></h5>
-                <a href={"/Product-Detail/60cf1e655451001acc0d380f"} className="xem-them">
+                <a href={"/Product-Detail/61aadeaf90db05226433c53e"} className="xem-them">
                   <span>Xem thêm</span>
                 </a>   
               </div>
@@ -136,27 +136,27 @@ export default function ClientHome() {
           </div>
           <div className="col-md-6 slideanim3 h-50" style={{padding: '0px 5px'}}>
             <div className="tablet-card" style={{padding: '0px',height: '220px'}}>
-              <img src={`http://localhost:3000/images/product/84104.50853118148acer-nitro-5-an515-45-r3sm-r5-nhqbmsv005-600x600.jpg`} alt="Sản phẩm laptop 2" className="w-100" style={{height: '220px'}}/>
+              <img src={`http://localhost:3000/images/product/34633.86536569826vi-vn-acer-aspire-a315-56-308n-i3-nxhs5sv00c-(2).jpg`} alt="Sản phẩm laptop 2" className="w-100" style={{height: '220px'}}/>
               <div className="style-grid-2-text my-content-denim my-content-denim3">
-                <a href={"/Product-Detail/60d09cbc567a1d3da4c07f52"}>
+                <a href={"/Product-Detail/61aaec3990db05226433c541"}>
                   <p className="ten ten-san-pham">Laptop Acer Nitro 5 AN515 45 R3SM R5</p>
                 </a>
                 <p className="noi-dung"></p>
                 <h5>{new Intl.NumberFormat('de-DE').format(parseInt(22310000))}<span className="badge vnd"><sup>đ</sup></span></h5>
-                <a href={"/Product-Detail/60d09cbc567a1d3da4c07f52"} className="xem-them">
+                <a href={"/Product-Detail/61aaec3990db05226433c541"} className="xem-them">
                   <span>Xem thêm</span>
                 </a>   
               </div>
             </div>
             <div className="tablet-card slideanim3" style={{padding: '5px 0px',height: '220px' }}>
-              <img src={`http://localhost:3000/images/product/80598.57064757006style-2.png`} alt="Sản phẩm laptop 3" className="w-100" style={{height: '220px'}}/>
+              <img src={`http://localhost:3000/images/product/70632.65913777657vi-vn-laptopasus-rog-zephyrus-g14-ga401qh-r7-hz035t-2.jpg`} alt="Sản phẩm laptop 3" className="w-100" style={{height: '220px'}}/>
               <div className="style-grid-2-text my-content-denim  my-content-denim3">
-                <a href={"/Product-Detail/60d5c955b527d5508083d6f0"}>
+                <a href={"/Product-Detail/61aaf31690db05226433c544"}>
                   <p className="ten ten-san-pham">Laptop Asus Rog Zephyrus</p>
                 </a>
                 <p className="noi-dung"></p>
                 <h5>{new Intl.NumberFormat('de-DE').format(parseInt(41990000))}<span className="badge vnd">₫</span></h5>
-                <a href={"/Product-Detail/60d5c955b527d5508083d6f0"} className="xem-them">
+                <a href={"/Product-Detail/61aaf31690db05226433c544"} className="xem-them">
                   <span>Xem thêm</span>
                 </a>   
               </div>
@@ -172,13 +172,13 @@ export default function ClientHome() {
           <p className="cap1">Selfie Lấy Nét Tự Động Theo Mắt 44MP</p>
           <p className="cap2">Kính Mờ Siêu Mỏng | Chụp Đêm 64MP</p>
           <div className="d-flex justify-content-center align-items-center">
-            <a href={`http://localhost:3001/Product-Detail/60d6ebc51c52352148f819f0`}>
+            <a href={`http://localhost:3001/Product-Detail/61aadab390db05226433c53d`}>
               <button >
                 ĐẶT TRƯỚC <br/>
                 <span>Cọc 500.000<sup>đ</sup> </span>
               </button>
             </a> 
-            <a href={`http://localhost:3001/Product-Detail/60d6ebc51c52352148f819f0`}>
+            <a href={`http://localhost:3001/Product-Detail/61aadab390db05226433c53d`}>
               <button>
                 TRẢ GÓP <br/>
                 <span>Cọc 500.000<sup>đ</sup> </span>
